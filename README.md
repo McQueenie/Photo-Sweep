@@ -39,7 +39,7 @@ open PhotoSweep.xcodeproj
 
 ## How It Works
 
-PhotoSweep uses Apple's Photos framework to access your photo library. When you delete a photo, iOS will ask for confirmation before permanently removing it from your library. Deleted photos are moved to the "Recently Deleted" album in the Photos app, where they remain for 30 days before being permanently removed.
+Photo organizer uses Apple's Photos framework to access your photo library. When you delete a photo, iOS will ask for confirmation before permanently removing it from your library. Deleted photos are moved to the "Recently Deleted" album in the Photos app, where they remain for 30 days before being permanently removed.
 
 ## Technical Details
 
