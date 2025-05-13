@@ -1,4 +1,4 @@
-# Photo Sweep
+# Photo Organizer
 PhotoSweep is an iOS app that helps you clean up your photo library using a Tinder-like swiping interface. Quickly browse through your photos, swiping right to keep or left to delete, making photo management fast and intuitive. Saw a similar idea on a ad, yet I don't trust random apps with my private photos.
 
 ## Features
